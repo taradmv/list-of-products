@@ -1,0 +1,97 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "first item",
+      "dates": [
+        {
+          "date": "2020-01-21",
+          "price": {
+            "currency": "AED",
+            "amount": 3005
+          }
+        },
+        {
+          "date": "2020-01-22",
+          "price": {
+            "currency": "AED",
+            "amount": 5015
+          }
+        },
+        {
+          "date": "2020-01-23",
+          "price": {
+            "currency": "AED",
+            "amount": 4205
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "second item",
+      "dates": [
+        {
+          "date": "2020-01-21",
+          "price": {
+            "currency": "AED",
+            "amount": 5105
+          }
+        },
+        {
+          "date": "2020-01-22",
+          "price": {
+            "currency": "AED",
+            "amount": 3505
+          }
+        },
+        {
+          "date": "2020-01-25",
+          "price": {
+            "currency": "AED",
+            "amount": 1205
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "fifth item",
+      "dates": [
+        {
+          "date": "2020-01-23",
+          "price": {
+            "currency": "AED",
+            "amount": 6105
+          }
+        },
+        {
+          "date": "2020-01-24",
+          "price": {
+            "currency": "AED",
+            "amount": 2100
+          }
+        },
+        {
+          "date": "2020-01-28",
+          "price": {
+            "currency": "AED",
+            "amount": 1005
+          }
+        },
+        {
+          "date": "2020-01-30",
+          "price": {
+            "currency": "AED",
+            "amount": 3205
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "fourth item",
+      "dates": []
+    }
+  ]
+}
